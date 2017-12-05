@@ -1,0 +1,37 @@
+a{
+	text-decoration: none;
+	color: #4db8ff;
+}
+
+header{
+	background: #80ccff;
+	border-color: #
+}
+
+
+#wrapper{
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+#logo{
+	text-align: center;
+	margin: 0px;
+}
+
+h1{
+	border-color: #;
+}
+
+h1, h2{
+	color: #fff;
+}
+
+nav{
+	background: #599a69;
+}
+
+nav a, nav a:visited{
+	color: white;
+}
